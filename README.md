@@ -27,6 +27,7 @@ You will need values for `JWT_SECRET_KEY`, `OAUTH_CLIENT_ID`, `OAUTH_CLIENT_SECR
 - Set the `clientId` value in the manifest.json file to the same value as `OAUTH_CLIENT_ID`.
 - Set the `clientSecret` value in the manifest.json file to the same value as `OAUTH_CLIENT_SECRET`.
 ### 3. [Install and configure Node.js and npm on your machine.](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+This project requires Node.js `^22.23.4`, `^24.22.1` or `^26.12.1`.
 ### 4. Install dependencies
 Run the following command to install the necessary dependencies:
 ```bash
